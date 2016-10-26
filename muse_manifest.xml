@@ -1,16 +1,22 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://physicsz.xyz" resolutions="1x" timestamp="1477458107466">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://physicsz.xyz" resolutions="1x" timestamp="1477460230469">
+  <folder name="images">
+    <file name="u104-4.png" crc="532755147" ref="index"/>
+    <file name="lenovo-wallpaper-6_dcykdyp.jpg" crc="4231776595" ref="index"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4105776026" ref="index"/>
+    <file name="index.css" crc="3926594555" ref="index"/>
+    <file name="page1.css" crc="4125715712" ref="page1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4242129463" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:page1"/>
+    <file name="museutils.js" crc="3851988764" ref="index:page1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:page1"/>
+    <file name="pie.js" crc="3831537696" ref="page1"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:page1"/>
+    <file name="require.js" crc="4108833657" ref="index:page1"/>
   </folder>
-  <file name="index.html" crc="226480919" seo="true" mt="1477458054944" redirect="true"/>
+  <file name="index.html" crc="71709090" seo="true" mt="1477460210017" redirect="true"/>
+  <file name="page1.html" crc="4162601169" seo="true" mt="1477460150635" redirect="true"/>
 </manifest>
